@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **rudrarh1806@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1jc7XgrPqAFg7A698al9Ul83UjnEMJgPq/view?usp=sharing](https://drive.google.com/file/d/1jc7XgrPqAFg7A698al9Ul83UjnEMJgPq/view?usp=sharing)
+- 📄 Know about my experiences [https://tinyurl.com/5d6z3n6h](https://tinyurl.com/5d6z3n6h)
 
 - ⚡ Fun fact **I think I can change world with Code :)**
 
