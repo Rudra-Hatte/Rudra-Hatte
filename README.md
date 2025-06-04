@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rudra Hatte</h1>
 <h3 align="center">AI & Web Developer | Open to Collaboration | Learning by Building</h3>
 
-- 🔭 I’m currently working on [Lawbook Website]((https://lawbook-nine.vercel.app/)) , [Lawbook Pitch](https://drive.google.com/file/d/1jTq2WUj9Sz8Uov5hlMAIHRswHjHJMXy9/view?usp=sharing)
+- 🔭 I’m currently working on [Lawbook Website](https://lawbook-nine.vercel.app/) , [Lawbook Pitch](https://drive.google.com/file/d/1jTq2WUj9Sz8Uov5hlMAIHRswHjHJMXy9/view?usp=sharing)
 
 - 🌱 I’m currently learning **JSP, Servlet, Data Science, Machine Learning**
 
