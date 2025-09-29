@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JSP, Servlet, Data Science, Machine Learning**
 
-- 💬 Ask me about **Python, Django, HTML, CSS, JS**
+- 💬 Ask me about **Python, Flask, HTML, CSS, JS**
 
 - 📫 How to reach me **rudrarh1806@gmail.com**
 
